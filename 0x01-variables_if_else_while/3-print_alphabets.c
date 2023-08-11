@@ -19,7 +19,7 @@ int main(void)
 		putchr(CH);
 		CH++;
 	}
-	putchr('\n');
+	putchar('\n');
 
 	return (0);
 }
