@@ -3,6 +3,7 @@
 /**
  * add - add two integers
  * @a: second input
+ * @b: second input
  * Return: sum of a & b
  */
 int add(int a, int b)
