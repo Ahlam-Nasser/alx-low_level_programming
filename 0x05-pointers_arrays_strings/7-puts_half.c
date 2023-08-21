@@ -26,5 +26,5 @@ void puts_half(char *str)
 			_putchar(str[o]);
 		}
 	}
-	_putchat('\n');
+	_putchar('\n');
 }
