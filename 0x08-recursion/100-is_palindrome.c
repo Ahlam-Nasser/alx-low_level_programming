@@ -1,4 +1,4 @@
-#inculde "main.h"
+#include "main.h"
 
 int check_pal(char *s, int i, int len);
 int _strien_recursion(char *s);
